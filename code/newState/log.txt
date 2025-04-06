@@ -1,0 +1,12 @@
+marno@arragon:~/Classes/Fall22/Robotic_Manipulation/Robotic_Manip_Capstone/Marthinus_Nel_Capstone/code (main)$ python3 -m Milestone3
+
+
+ Calculated desired trajectory
+ Starting Feedforward and PI control simulation... 
+ Also checking for self collisions... 
+ Done with simulation 
+ Plotting 
+ --- Close plot for .csv to save ---
+ Saving to Capstone.csv... 
+ DONE! 
+
